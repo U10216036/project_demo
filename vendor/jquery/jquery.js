@@ -5302,6 +5302,7 @@ jQuery.event = {
 				}
 			}
 		}
+		
 
 		// Add the remaining (directly-bound) handlers
 		cur = this;
